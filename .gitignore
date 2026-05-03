@@ -3,4 +3,4 @@ notion/.DS_Store
 tmp/
 .netlify/
 node_modules/
-
+.tools/
